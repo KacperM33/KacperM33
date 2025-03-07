@@ -4,8 +4,6 @@
 - 💻 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.<br>
 - 🌱 Currently exploring **Deep Learning** and advanced **Neural Networks** with PyTorch and TensorFlow.<br>
 
----
-
 ## 🧰 Tech Stack
 
 ### 🌐 Frameworks (AI/ML) & Environments
