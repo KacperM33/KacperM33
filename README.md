@@ -15,7 +15,7 @@
 - **Primary Language:** Python
 - **Other Languages:** Java, C#, C
 - **Game Engines:** Unity (C#)
-- **Web Rechnologies:** HTML, CSS, JavaScript, PHP, Laravel
+- **Web Technologies:** HTML, CSS, JavaScript, PHP, Laravel
 
 ## 🚀 Projects & Achievements
 - [Texas Hold'em Poker RL Agent](https://github.com/KacperM33/Texas-Holdem-Poker-RL-Agent) - This project was developed as part of my **Engineering thesis in Computer Science**. The goal was to build a **Reinforcement Learning** agent for Texas Hold'em Poker and explore the impact of neural network hyperparameter tuning on model performance.
