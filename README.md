@@ -29,3 +29,4 @@
 - 🧩 I love challenges, which is why my favorite video game genre is **Souls-Like** games, where every failure is a step towards success.  
 - 🎮 These games taught me that no matter how tough a problem is, it can always be overcome with the right strategy and patience!
 
+![Hewg](https://github.com/user-attachments/assets/61cb3f54-2075-4200-97dc-fccb6938c33b)
