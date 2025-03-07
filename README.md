@@ -1,23 +1,25 @@
 # Hello, I'm Kacper! 👋
 
 - 🎓 I am currently pursuing a Master's degree in **Computer Science**. I hold an Engineer’s degree in the same field.<br>
-- 💻 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.<br>
+- 🧠 I’m passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision** and **Video Games**.<br>
 - 🌱 Currently exploring **Deep Learning** and advanced **Neural Networks** with PyTorch and TensorFlow.<br>
+- 🎮 My hobbies include playing video games — especially the **Souls-Like** genre — **going to the gym**, and watching or following **Esports**.<br>
 
 ## 🧰 Tech Stack
 
 ### 🌐 Frameworks (AI/ML) & Environments
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Keras
+- **Frameworks/Libraries (AI/ML):** PyTorch, TensorFlow, Keras
 - **Environments:** Jupyter Notebook, Google Colab
 
-### 📊 Languages:
-- **Primary:** Python
-- **Other languages:** Java, C#, C
-- **Web technologies:** HTML, CSS, JavaScript, PHP, Laravel 
-
+### 💻 Programming & Technologies
+- **Primary Language:** Python
+- **Other Languages:** Java, C#, C
+- **Game Engines:** Unity (C#)
+- **Web Rechnologies:** HTML, CSS, JavaScript, PHP, Laravel
 
 ## 🚀 Projects & Achievements
 - [Texas Hold'em Poker RL Agent](https://github.com/KacperM33/Texas-Holdem-Poker-RL-Agent) - This project was developed as part of my **Engineering thesis in Computer Science**. The goal was to build a **Reinforcement Learning** agent for Texas Hold'em Poker and explore the impact of neural network hyperparameter tuning on model performance.
+- [Golden Pitcher]() - My first game created using the Unity Engine. It's a **2D RPG game** with a top-down view, where the player takes on the role of an undying knight, navigating through dark catacombs, doing knight things, and collecting **Golden Pitchers**.
 
 ## 📊 GitHub Stats
 
@@ -27,6 +29,6 @@
 
 - 📚 Teachers always said I was persistent in achieving my goals, which turned out to be a great asset in my career! 
 - 🧩 I love challenges, which is why my favorite video game genre is **Souls-Like** games, where every failure is a step towards success.  
-- 🎮 These games taught me that no matter how tough a problem is, it can always be overcome with the right strategy and patience!
+- 🕹️ These games taught me that no matter how tough a problem is, it can always be overcome with the right strategy and patience!
 
 ![Hewg](https://github.com/user-attachments/assets/61cb3f54-2075-4200-97dc-fccb6938c33b)
