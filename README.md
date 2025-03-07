@@ -8,7 +8,7 @@
 
 ## 🧰 Tech Stack
 
-### 🌐 Frameworks & Environments 
+### 🌐 Frameworks (AI/ML) & Environments
 - **Frameworks/Libraries:** PyTorch, TensorFlow, Keras
 - **Environments:** Jupyter Notebook, Google Colab
 
