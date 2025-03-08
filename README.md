@@ -19,11 +19,11 @@
 
 ## 🚀 Projects & Achievements
 - [Texas Hold'em Poker RL Agent](https://github.com/KacperM33/Texas-Holdem-Poker-RL-Agent) - This project was developed as part of my **Engineering thesis in Computer Science**. The goal was to build a **Reinforcement Learning** agent for Texas Hold'em Poker and explore the impact of neural network hyperparameter tuning on model performance.
-- [Golden Pitcher]() - My first game created using the Unity Engine. It's a **2D RPG game** with a top-down view, where the player takes on the role of an undying knight, navigating through dark catacombs, doing knight things, and collecting **Golden Pitchers**.
+- [Golden Pitcher](https://github.com/KacperM33/Golden-Pitcher) - My first game created using the Unity Engine. It's a **2D RPG game** with a top-down view, where the player takes on the role of an undying knight, navigating through dark catacombs, doing knight things, and collecting **Golden Pitchers**.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperM33&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperM33&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide=hlsl)
 
 ## 🎯 Fun Facts
 
