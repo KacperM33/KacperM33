@@ -3,6 +3,7 @@
 - 🎓 I am currently pursuing a Master's degree in **Computer Science**. I hold an Engineer’s degree in the same field.<br>
 - 🧠 I’m passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision** and **Video Games**.<br>
 - 🌱 Currently exploring **Deep Learning** and advanced **Neural Networks** with PyTorch and TensorFlow.<br>
+- 💼 I also earned an **IT Technician Diploma** from a technical high school.<br>
 - 🎮 My hobbies include playing video games (especially the **Souls-Like** genre) **going to the gym**, and following **Esports**.<br>
 
 ## 🧰 Tech Stack
@@ -23,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperM33&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide=hlsl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperM33&langs_count=8&layout=compact&theme=tokyonight&hide=hlsl)
 
 ## 🎯 Fun Facts
 
