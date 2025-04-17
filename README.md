@@ -2,7 +2,7 @@
 
 - 🎓 I am currently pursuing a Master's degree in **Computer Science**. I hold an Engineer’s degree in the same field.<br>
 - 🧠 I’m passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision** and **Video Games**.<br>
-- 🌱 Currently exploring **Deep Learning** and advanced **Neural Networks** with PyTorch and TensorFlow.<br>
+- 🌱 Currently exploring **Deep Learning** and **Adversarial Attacks** on **Neural Networks**.<br>
 - 💼 I also earned an **IT Technician Diploma** from a technical high school.<br>
 - 🎮 My hobbies include playing video games (especially the **Souls-Like** genre) **going to the gym**, and following **Esports**.<br>
 
