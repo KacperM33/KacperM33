@@ -29,6 +29,7 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperM33&langs_count=8&layout=compact&card_width=600&theme=tokyonight&hide=hlsl)
   
 </div>
+
 ## 🎯 Fun Facts
 
 - 📚 Teachers always said I was persistent in achieving my goals, which turned out to be a great asset in my career! 
